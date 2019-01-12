@@ -42,18 +42,20 @@ section {
 
 .btn  {
     cursor: pointer;
-    border: none;
+    border: 0;
     padding: 6px 12px;
     border-radius: 3px;
     line-height: 1.4;
-    color: white;
+    color: #ffffff;
 }
 
 .btn-default {
+    color: #ffffff;
     background-color: #FAA541;
 }
 
 .btn-primary {
+    color: #ffffff;
     background-color: #364147;
 }
 
